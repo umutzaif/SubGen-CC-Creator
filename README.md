@@ -36,7 +36,7 @@ CC_Creator/
 
 ## ⚙️ Kurulum
 
-### 1. Depoyu klonla
+### Depoyu klonla
 ```git clone https://github.com/<kullanıcı-adın>/CC_Creator.git```
 ```cd CC_Creator```
 ```python -m venv .venv```
