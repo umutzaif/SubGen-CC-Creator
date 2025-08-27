@@ -1,0 +1,7 @@
+typer>=0.9.0
+openai-whisper
+ffmpeg-python
+python-docx
+pypandoc
+PyQt5
+googletrans==4.0.0-rc1
