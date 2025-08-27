@@ -37,7 +37,7 @@ CC_Creator/
 ## ⚙️ Kurulum
 
 ### Depoyu klonla
-```git clone https://github.com/<kullanıcı-adın>/CC_Creator.git```
+```git clone https://github.com/umutzaif/SubGen-CC-Creator.git```
 ```cd CC_Creator```
 ```python -m venv .venv```
 ```.venv\Scripts\activate```   
